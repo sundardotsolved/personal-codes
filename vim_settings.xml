@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Downloads/crowdanalytix/read_csv.py" timestamp="1463296024836">
-        <mark key="[" line="7" column="14" />
-        <mark key="]" line="7" column="14" />
-        <mark key="." line="7" column="14" />
-        <mark key="^" line="7" column="14" />
+      <file name="$USER_HOME$/Downloads/crowdanalytix/read_csv.py" timestamp="1463299231038">
+        <mark key="[" line="0" column="19" />
+        <mark key="]" line="0" column="19" />
+        <mark key="^" line="9" column="29" />
+        <mark key="." line="0" column="19" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/mycodes/my first code.py" timestamp="1461735094355">
         <mark key="[" line="1" column="11" />
@@ -21,38 +21,41 @@
       <jump line="5" column="25" filename="$USER_HOME$/Downloads/crowdanalytix/read_csv.py" />
     </jumps>
     <registers>
-      <register name="1" type="2">
-        <text encoding="base64">IyBwcmludChwYXR0ZXJuKQo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">CmltcG9ydCBtYXRwbG90bGliLnB5cGxvdCBhcyBwbHQ=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">IyBwcmludChwYXR0ZXJuKQo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">CmltcG9ydCBtYXRwbG90bGliLnB5cGxvdCBhcyBwbHQ=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">IyBwYXR0ZXJuID0gcGF0dGVyblswOjFdLmRpdihwYXR0ZXJuWzBdWzFdLCBheGlzPSdpbmRleCcpCg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgaGlzdC5wbG90KCkKICAgICAgICAgICAgcGx0LnNhdmVmaWcoY29sdW1uICsgIl8iICsgc3RyKGkpICsgJy5wbmcnKQ==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">IyBwcmludChwYXR0ZXJuLmNvbHVtbnMudmFsdWVzKQo=</text>
+      <register name="3" type="4">
+        <text>d</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">IyBwcmludChwYXR0ZXJuW1snQVJSX0RFTDE1J11bMF1dKQo=</text>
+      <register name="4" type="4">
+        <text>:
+                h = sum1.divide(count1.values, axis='index')
+                hist = pd.concat([hist, h], axis=1)
+            hist.groupby(column).plot()</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">IyBwcmludChwYXR0ZXJuLnNoYXBlKQo=</text>
+      <register name="5" type="4">
+        <text>&quot;template&quot;</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">IyBwcmludChwYXR0ZXJuKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyBwYXR0ZXJuID0gZGF0YVtbJ0RJU1RBTkNFX0dST1VQJywgJ0FSUl9ERUwxNSddXS5ncm91cGJ5KFsnRElTVEFOQ0VfR1JPVVAnXSkuYWdnKFsnY291bnQnLCAnc3VtJ10pLnRyYW5zZm9ybShrZXkpCg==</text>
+        <text encoding="base64">IyBwYXR0ZXJuID0gcGF0dGVyblswOjFdLmRpdihwYXR0ZXJuWzBdWzFdLCBheGlzPSdpbmRleCcpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyBrZXkgPSBsYW1iZGEgeDogeC5ESVNUQU5DRV9HUk9VUAo=</text>
+        <text encoding="base64">IyBwcmludChwYXR0ZXJuLmNvbHVtbnMudmFsdWVzKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyBwcmludChjb2x1bW5zKQo=</text>
+        <text encoding="base64">IyBwcmludChwYXR0ZXJuW1snQVJSX0RFTDE1J11bMF1dKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>data1</text>
+        <text>d</text>
       </register>
     </registers>
     <search>
