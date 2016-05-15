@@ -3,12 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Downloads/crowdanalytix/read_csv.py" timestamp="1463293804811">
-        <mark key="'" line="5" column="25" />
-        <mark key="[" line="5" column="6" />
-        <mark key="]" line="5" column="6" />
-        <mark key="." line="5" column="6" />
-        <mark key="^" line="3" column="0" />
+      <file name="$USER_HOME$/Downloads/crowdanalytix/read_csv.py" timestamp="1463296024836">
+        <mark key="[" line="7" column="14" />
+        <mark key="]" line="7" column="14" />
+        <mark key="." line="7" column="14" />
+        <mark key="^" line="7" column="14" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/mycodes/my first code.py" timestamp="1461735094355">
         <mark key="[" line="1" column="11" />
@@ -22,30 +21,35 @@
       <jump line="5" column="25" filename="$USER_HOME$/Downloads/crowdanalytix/read_csv.py" />
     </jumps>
     <registers>
-      <register name="1" type="4">
-        <text>data1</text>
+      <register name="1" type="2">
+        <text encoding="base64">IyBwcmludChwYXR0ZXJuKQo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>data1</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">IyBwcmludChwYXR0ZXJuKQo=</text>
       </register>
-      <register name="2" type="4">
-        <text>:,:</text>
+      <register name="2" type="2">
+        <text encoding="base64">IyBwYXR0ZXJuID0gcGF0dGVyblswOjFdLmRpdihwYXR0ZXJuWzBdWzFdLCBheGlzPSdpbmRleCcpCg==</text>
       </register>
-      <register name="3" type="4">
-        <text>print(</text>
+      <register name="3" type="2">
+        <text encoding="base64">IyBwcmludChwYXR0ZXJuLmNvbHVtbnMudmFsdWVzKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">XAo=</text>
+        <text encoding="base64">IyBwcmludChwYXR0ZXJuW1snQVJSX0RFTDE1J11bMF1dKQo=</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CjUwMDA3</text>
+      <register name="5" type="2">
+        <text encoding="base64">IyBwcmludChwYXR0ZXJuLnNoYXBlKQo=</text>
       </register>
-      <register name="6" type="4">
-        <text />
+      <register name="6" type="2">
+        <text encoding="base64">IyBwcmludChwYXR0ZXJuKQo=</text>
       </register>
-      <register name="7" type="4">
-        <text>def mycode:
-    print h</text>
+      <register name="7" type="2">
+        <text encoding="base64">IyBwYXR0ZXJuID0gZGF0YVtbJ0RJU1RBTkNFX0dST1VQJywgJ0FSUl9ERUwxNSddXS5ncm91cGJ5KFsnRElTVEFOQ0VfR1JPVVAnXSkuYWdnKFsnY291bnQnLCAnc3VtJ10pLnRyYW5zZm9ybShrZXkpCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">IyBrZXkgPSBsYW1iZGEgeDogeC5ESVNUQU5DRV9HUk9VUAo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">IyBwcmludChjb2x1bW5zKQo=</text>
       </register>
       <register name="-" type="4">
         <text>data1</text>
@@ -64,6 +68,12 @@
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed X</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
