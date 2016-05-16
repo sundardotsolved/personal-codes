@@ -3,12 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Downloads/crowdanalytix/read_csv.py" timestamp="1463300252052">
-        <mark key="'" line="14" column="0" />
-        <mark key="[" line="16" column="12" />
-        <mark key="]" line="16" column="12" />
-        <mark key="^" line="9" column="29" />
-        <mark key="." line="16" column="12" />
+      <file name="$USER_HOME$/Downloads/crowdanalytix/read_csv.py" timestamp="1463367511019">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/mycodes/my first code.py" timestamp="1461735094355">
         <mark key="[" line="1" column="11" />
@@ -23,38 +21,38 @@
       <jump line="14" column="0" filename="$USER_HOME$/Downloads/crowdanalytix/read_csv.py" />
     </jumps>
     <registers>
-      <register name="1" type="4">
-        <text>columns</text>
+      <register name="1" type="2">
+        <text encoding="base64">ZXhpdCgpZGQK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>columns</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZXhpdCgpZGQK</text>
       </register>
       <register name="2" type="4">
-        <text>k</text>
+        <text>columns</text>
       </register>
       <register name="3" type="4">
-        <text>'YEAR</text>
+        <text>k</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">CmltcG9ydCBtYXRwbG90bGliLnB5cGxvdCBhcyBwbHQ=</text>
+        <text>'YEAR</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgaGlzdC5wbG90KCkKICAgICAgICAgICAgcGx0LnNhdmVmaWcoY29sdW1uICsgIl8iICsgc3RyKGkpICsgJy5wbmcnKQ==</text>
+        <text encoding="base64">CmltcG9ydCBtYXRwbG90bGliLnB5cGxvdCBhcyBwbHQ=</text>
       </register>
       <register name="6" type="4">
-        <text>d</text>
+        <text encoding="base64">ICAgICAgICAgICAgaGlzdC5wbG90KCkKICAgICAgICAgICAgcGx0LnNhdmVmaWcoY29sdW1uICsgIl8iICsgc3RyKGkpICsgJy5wbmcnKQ==</text>
       </register>
       <register name="7" type="4">
+        <text>d</text>
+      </register>
+      <register name="8" type="4">
         <text>:
                 h = sum1.divide(count1.values, axis='index')
                 hist = pd.concat([hist, h], axis=1)
             hist.groupby(column).plot()</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>&quot;template&quot;</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">IyBwcmludChwYXR0ZXJuKQo=</text>
       </register>
       <register name="-" type="4">
         <text>columns</text>
